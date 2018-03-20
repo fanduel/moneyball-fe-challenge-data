@@ -89,5 +89,23 @@
 			],
 			"score": 81
 		}
-	}
+	},
+	"nav_elements": [
+		{
+			"title": "Lobby",
+			"href": "#"
+		},
+		{
+			"title": "Upcoming",
+			"href": "#"
+		},
+		{
+			"title": "Live",
+			"href": "#"
+		},
+		{
+			"title": "History",
+			"href": "#"
+		}
+	]
 }
