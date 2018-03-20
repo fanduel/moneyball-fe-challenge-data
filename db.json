@@ -1,11 +1,94 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"plays": [
+		{
+			"id": 1,
+			"away_score": 96,
+			"home_score": 81,
+			"description": "Stephen Curry makes 13-foot jumper. Assisted by Draymond Green.",
+			"quarter": 4,
+			"time_left": "7:34",
+			"scoring_player": "steph_curry"
+		},
+		{
+			"id": 2,
+			"away_score": 94,
+			"home_score": 81,
+			"description": "Kevin Durant misses 2-foot layup. Rebounded by Andrew Bogut.",
+			"quarter": 4,
+			"time_left": "7:46",
+			"scoring_player": "kevin_durant"
+		},
+		{
+			"id": 3,
+			"away_score": 94,
+			"home_score": 81,
+			"description": "Klay Thompson misses 24-foot jumper. Rebounded by Serge Ibaka.",
+			"quarter": 4,
+			"time_left": "7:55",
+			"scoring_player": "klay_thompson"
+		},
+		{
+			"id": 4,
+			"away_score": 94,
+			"home_score": 81,
+			"description": "Kevin Durant turnover.",
+			"quarter": 4,
+			"time_left": "8:17",
+			"scoring_player": "kevin_durant"
+		},
+		{
+			"id": 5,
+			"away_score": 93,
+			"home_score": 81,
+			"description": "Stephen Curry makes free throw.",
+			"quarter": 4,
+			"time_left": "8:27",
+			"scoring_player": "steph_curry"
+		}
+	],
+	"game_stats": {
+		"arena": "Oracle Arena",
+		"location": "Oakland, CA",
+		"quarter": 4,
+		"time_left": "7:34",
+		"away_team": {
+			"name": "Warriors",
+			"location": "Golden State",
+			"shooting_stats": [
+				{
+					"title": "FG%",
+					"perc": "55.7%"
+				},
+				{
+					"title": "FT%",
+					"perc": "60.0%"
+				},
+				{
+					"title": "3P%",
+					"perc": "56.7%"
+				}
+			],
+			"score": 96
+		},
+		"home_team": {
+			"name": "Thunder",
+			"location": "Oklahoma City",
+			"shooting_stats": [
+				{
+					"title": "FG%",
+					"perc": "41.7%"
+				},
+				{
+					"title": "FT%",
+					"perc": "80.0%"
+				},
+				{
+					"title": "3P%",
+					"perc": "36.7%"
+				}
+			],
+			"score": 81
+		},
+
+	}
 }
