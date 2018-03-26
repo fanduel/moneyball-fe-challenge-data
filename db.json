@@ -107,5 +107,91 @@
 			"title": "History",
 			"href": "#"
 		}
+	],
+	"footer_scoreboard": [
+		{
+			"time_left": "7:34",
+			"quarter": 4,
+			"home_team": {
+				"abbrev": "OKC",
+				"score": "56"
+			},
+			"away_team": {
+				"abbrev": "GSW",
+				"score":"87"
+			},
+			"top_performers": [
+				{
+					"name": "K. Durant",
+					"position": "SF",
+					"team": "OKC",
+					"points": 26,
+					"rebounds": 5
+				},
+				{
+					"name": "S. Curry",
+					"position": "PG",
+					"team": "GSW",
+					"points": 26,
+					"rebounds": 5
+				}
+			]
+		},
+		{
+			"time_left": "3:26",
+			"quarter": 2,
+			"home_team": {
+				"abbrev": "BOS",
+				"score": "34"
+			},
+			"away_team": {
+				"abbrev": "CHI",
+				"score":"45"
+			},
+			"top_performers": [
+				{
+					"name": "B. Portis",
+					"position": "SF",
+					"team": "CHI",
+					"points": 26,
+					"rebounds": 5
+				},
+				{
+					"name": "K. Irving",
+					"position": "PG",
+					"team": "BOS",
+					"points": 26,
+					"rebounds": 5
+				}
+			]
+		},
+		{
+			"time_left": "6:15",
+			"quarter": 3,
+			"home_team": {
+				"abbrev": "MEM",
+				"score": "39"
+			},
+			"away_team": {
+				"abbrev": "ATL",
+				"score":"43"
+			},
+			"top_performers": [
+				{
+					"name": "M. Gasol",
+					"position": "C",
+					"team": "MEM",
+					"points": 26,
+					"rebounds": 5
+				},
+				{
+					"name": "K. Bazemore",
+					"position": "SG",
+					"team": "ATL",
+					"points": 26,
+					"rebounds": 5
+				}
+			]
+		}
 	]
 }
