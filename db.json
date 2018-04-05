@@ -47,11 +47,13 @@
 		}
 	],
 	"game_stats": {
+		"game_id": 1,
 		"arena": "Oracle Arena",
 		"location": "Oakland, CA",
 		"quarter": 4,
 		"time_left": "7:34",
 		"away_team": {
+			"abbrev": "GSW",
 			"name": "Warriors",
 			"location": "Golden State",
 			"shooting_stats": [
@@ -71,6 +73,7 @@
 			"score": 96
 		},
 		"home_team": {
+			"abbrev": "OKC",
 			"name": "Thunder",
 			"location": "Oklahoma City",
 			"shooting_stats": [
@@ -110,14 +113,19 @@
 	],
 	"footer_scoreboard": [
 		{
+			"game_id": 1,
 			"time_left": "7:34",
 			"quarter": 4,
 			"home_team": {
 				"abbrev": "OKC",
+				"location" : "Oklahoma City",
+				"name" : "Thunder",
 				"score": "56"
 			},
 			"away_team": {
 				"abbrev": "GSW",
+				"location" : "Golden State",
+				"name" : "Warriors",
 				"score":"87"
 			},
 			"top_performers": [
@@ -138,14 +146,19 @@
 			]
 		},
 		{
+			"game_id": 2,
 			"time_left": "3:26",
 			"quarter": 2,
 			"home_team": {
 				"abbrev": "BOS",
+				"location" : "Boston",
+				"name" : "Celtics",
 				"score": "34"
 			},
 			"away_team": {
 				"abbrev": "CHI",
+				"location" : "Chicago",
+				"name" : "Bulls",
 				"score":"45"
 			},
 			"top_performers": [
@@ -166,14 +179,19 @@
 			]
 		},
 		{
+			"game_id": 3,
 			"time_left": "6:15",
 			"quarter": 3,
 			"home_team": {
 				"abbrev": "MEM",
+				"location" : "Memphis",
+				"name" : "Grizzlies",
 				"score": "39"
 			},
 			"away_team": {
 				"abbrev": "ATL",
+				"location" : "Atlanta",
+				"name" : "Hawks",
 				"score":"43"
 			},
 			"top_performers": [
